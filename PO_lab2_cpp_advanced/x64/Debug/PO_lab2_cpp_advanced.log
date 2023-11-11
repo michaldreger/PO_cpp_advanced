@@ -1,0 +1,574 @@
+﻿Kompilacja rozpoczęła się 11.11.2023 14:47:22.
+Środowisko przy rozpoczęciu kompilacji:
+ALLUSERSPROFILE = C:\ProgramData
+APPDATA = C:\Users\micha\AppData\Roaming
+asl.log = Destination=file
+CommonProgramFiles = C:\Program Files\Common Files
+CommonProgramFiles(x86) = C:\Program Files (x86)\Common Files
+CommonProgramW6432 = C:\Program Files\Common Files
+COMPUTERNAME = MSI
+ComSpec = C:\Windows\system32\cmd.exe
+configsetroot = C:\Windows\ConfigSetRoot
+DriverData = C:\Windows\System32\Drivers\DriverData
+ForceIdentityAuthenticationType = Embedded
+FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
+FPS_BROWSER_USER_PROFILE_STRING = Default
+HOMEDRIVE = C:
+HOMEPATH = \Users\micha
+LOCALAPPDATA = C:\Users\micha\AppData\Local
+LOGONSERVER = \\MSI
+MSBuildLoadMicrosoftTargetsReadOnly = true
+NUMBER_OF_PROCESSORS = 8
+NVIDIAWHITELISTED = 0x01
+OneDrive = C:\Users\micha\OneDrive
+OneDriveConsumer = C:\Users\micha\OneDrive
+OS = Windows_NT
+Path = C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\dotnet\;C:\Users\micha\AppData\Local\Microsoft\WindowsApps;;C:\Users\micha\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\micha\.dotnet\tools
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PkgDefApplicationConfigFile = C:\Users\micha\AppData\Local\Microsoft\VisualStudio\17.0_73c985e6\devenv.exe.config
+PROCESSOR_ARCHITECTURE = AMD64
+PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+PROCESSOR_LEVEL = 6
+PROCESSOR_REVISION = 8c01
+ProgramData = C:\ProgramData
+ProgramFiles = C:\Program Files
+ProgramFiles(x86) = C:\Program Files (x86)
+ProgramW6432 = C:\Program Files
+PSModulePath = C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC = C:\Users\Public
+ServiceHubLogSessionKey = C5A73415
+SESSIONNAME = Console
+SHIM_MCCOMPAT = 0x810000001
+SignInWithHomeTenantOnly = False
+SystemDrive = C:
+SystemRoot = C:\Windows
+TEMP = C:\Users\micha\AppData\Local\Temp
+ThreadedWaitDialogDpiContext = -4
+TMP = C:\Users\micha\AppData\Local\Temp
+USERDOMAIN = MSI
+USERDOMAIN_ROAMINGPROFILE = MSI
+USERNAME = micha
+USERPROFILE = C:\Users\micha
+VBOX_MSI_INSTALL_PATH = C:\Program Files\Oracle\VirtualBox\
+VisualStudioDir = C:\Users\micha\OneDrive\Dokumenty\Visual Studio 2022
+VisualStudioEdition = Microsoft Visual Studio Community 2022
+VisualStudioVersion = 17.0
+VSAPPIDDIR = C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\
+VSAPPIDNAME = devenv.exe
+VSLANG = 1045
+VSSKUEDITION = Community
+windir = C:\Windows
+ZES_ENABLE_SYSMAN = 1
+
+Szczegółowość rejestrowania została ustawiona na: Diagnostic.14:47:22.157     1>Projekt „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” w węźle 2 (elementy docelowe: Build).
+14:47:22.157     1>Element docelowy „_CheckForInvalidConfigurationAndPlatform: (identyfikator elementu docelowego: 2)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „SetTelemetryEnvironmentVariables”):
+14:47:22.158     1>Zadanie „Message”: (identyfikator zadania: 2)
+                   Wykonywanie zadania „Message” zakończone.: (identyfikator zadania: 2)
+                   Zadanie „Message”: (identyfikator zadania: 3)
+                   Wykonywanie zadania „Message” zakończone.: (identyfikator zadania: 3)
+14:47:22.158     1>Wykonano kompilowanie elementu docelowego „_CheckForInvalidConfigurationAndPlatform” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 2)
+14:47:22.158     1>Element docelowy „SetTelemetryEnvironmentVariables: (identyfikator elementu docelowego: 3)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.DesignTime.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „Build”):
+                   Zadanie „SetEnv”: (identyfikator zadania: 4)
+                   Wykonywanie zadania „SetEnv” zakończone.: (identyfikator zadania: 4)
+                   Zadanie „SetEnv”: (identyfikator zadania: 5)
+                   Wykonywanie zadania „SetEnv” zakończone.: (identyfikator zadania: 5)
+                   Zadanie „SetEnv”: (identyfikator zadania: 6)
+                   Wykonywanie zadania „SetEnv” zakończone.: (identyfikator zadania: 6)
+14:47:22.159     1>Wykonano kompilowanie elementu docelowego „SetTelemetryEnvironmentVariables” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 3)
+14:47:22.159     1>Element docelowy „_PrepareForBuild: (identyfikator elementu docelowego: 4)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „Build”):
+14:47:22.159     1>Wykonano kompilowanie elementu docelowego „_PrepareForBuild” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 4)
+14:47:22.159     1>Element docelowy „_PrepareForReferenceResolution: (identyfikator elementu docelowego: 5)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „ResolveReferences”):
+14:47:22.159     1>Wykonano kompilowanie elementu docelowego „_PrepareForReferenceResolution” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 5)
+14:47:22.159     1>Element docelowy „BeforeResolveReferences: (identyfikator elementu docelowego: 6)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „ResolveReferences”):
+14:47:22.159     1>Wykonano kompilowanie elementu docelowego „BeforeResolveReferences” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 6)
+14:47:22.159     1>Element docelowy „AssignProjectConfiguration: (identyfikator elementu docelowego: 7)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „ResolveReferences”):
+                   Zadanie „AssignProjectConfiguration”: (identyfikator zadania: 7)
+                   Wykonywanie zadania „AssignProjectConfiguration” zakończone.: (identyfikator zadania: 7)
+14:47:22.159     1>Wykonano kompilowanie elementu docelowego „AssignProjectConfiguration” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 7)
+14:47:22.159     1>Element docelowy „_SplitProjectReferencesByFileExistence: (identyfikator elementu docelowego: 8)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „PrepareProjectReferences”):
+14:47:22.159     1>Wykonano kompilowanie elementu docelowego „_SplitProjectReferencesByFileExistence” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 8)
+14:47:22.159     1>Element docelowy „_AddOutputPathToGlobalPropertiesToRemove: (identyfikator elementu docelowego: 9)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „_GetProjectReferenceTargetFrameworkProperties”):
+14:47:22.159     1>Wykonano kompilowanie elementu docelowego „_AddOutputPathToGlobalPropertiesToRemove” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 9)
+14:47:22.159     1>Element docelowy „_GetProjectReferenceTargetFrameworkProperties: (identyfikator elementu docelowego: 10)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „PrepareProjectReferences”):
+                   Zadanie „MSBuild”: (identyfikator zadania: 8)
+                   Wykonywanie zadania „MSBuild” zakończone.: (identyfikator zadania: 8)
+14:47:22.160     1>Wykonano kompilowanie elementu docelowego „_GetProjectReferenceTargetFrameworkProperties” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 10)
+14:47:22.160     1>Element docelowy „PrepareProjectReferences: (identyfikator elementu docelowego: 11)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „ResolveProjectReferences”):
+14:47:22.160     1>Wykonano kompilowanie elementu docelowego „PrepareProjectReferences” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 11)
+14:47:22.160     1>Element docelowy „ResolveProjectReferences: (identyfikator elementu docelowego: 12)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „ResolveReferences”):
+14:47:22.160     1>Wykonano kompilowanie elementu docelowego „ResolveProjectReferences” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 12)
+14:47:22.160     1>Element docelowy „GetFrameworkPaths: (identyfikator elementu docelowego: 13)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „ResolveAssemblyReferences”):
+14:47:22.160     1>Wykonano kompilowanie elementu docelowego „GetFrameworkPaths” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 13)
+14:47:22.160     1>Element docelowy „GetReferenceAssemblyPaths: (identyfikator elementu docelowego: 14)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „ResolveAssemblyReferences”):
+14:47:22.160     1>Wykonano kompilowanie elementu docelowego „GetReferenceAssemblyPaths” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 14)
+14:47:22.160     1>Element docelowy „AddExternalIncludDirectoriesToPaths: (identyfikator elementu docelowego: 15)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Current.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „SetBuildDefaultEnvironmentVariables”):
+14:47:22.160     1>Wykonano kompilowanie elementu docelowego „AddExternalIncludDirectoriesToPaths” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 15)
+14:47:22.160     1>Element docelowy „SetBuildDefaultEnvironmentVariables: (identyfikator elementu docelowego: 16)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Current.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „PrepareForBuild”):
+                   Zadanie „SetEnv”: (identyfikator zadania: 9)
+                   Wykonywanie zadania „SetEnv” zakończone.: (identyfikator zadania: 9)
+                   Zadanie „SetEnv”: (identyfikator zadania: 10)
+                   Wykonywanie zadania „SetEnv” zakończone.: (identyfikator zadania: 10)
+                   Zadanie „SetEnv”: (identyfikator zadania: 11)
+                   Wykonywanie zadania „SetEnv” zakończone.: (identyfikator zadania: 11)
+                   Zadanie „SetEnv”: (identyfikator zadania: 12)
+                   Wykonywanie zadania „SetEnv” zakończone.: (identyfikator zadania: 12)
+                   Zadanie „SetEnv”: (identyfikator zadania: 13)
+                   Wykonywanie zadania „SetEnv” zakończone.: (identyfikator zadania: 13)
+14:47:22.161     1>Wykonano kompilowanie elementu docelowego „SetBuildDefaultEnvironmentVariables” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 16)
+14:47:22.161     1>Element docelowy „GetResolvedWinMD: (identyfikator elementu docelowego: 17)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „PrepareForBuild”):
+14:47:22.161     1>Wykonano kompilowanie elementu docelowego „GetResolvedWinMD” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 17)
+14:47:22.161     1>Element docelowy „_CheckWindowsSDKInstalled: (identyfikator elementu docelowego: 18)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.WindowsSDK.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „PrepareForBuild”):
+14:47:22.161     1>Wykonano kompilowanie elementu docelowego „_CheckWindowsSDKInstalled” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 18)
+14:47:22.161     1>Element docelowy „SetCABuildNativeEnvironmentVariables: (identyfikator elementu docelowego: 19)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VisualStudio\v17.0\CodeAnalysis\Microsoft.CodeAnalysis.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „PrepareForBuild”):
+                   Zadanie „SetEnv”: (identyfikator zadania: 14)
+                   Wykonywanie zadania „SetEnv” zakończone.: (identyfikator zadania: 14)
+14:47:22.161     1>Wykonano kompilowanie elementu docelowego „SetCABuildNativeEnvironmentVariables” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 19)
+14:47:22.161     1>Element docelowy „PrepareForBuild: (identyfikator elementu docelowego: 20)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „ResolveAssemblyReferences”):
+                   Zadanie „MakeDir”: (identyfikator zadania: 15)
+                   Wykonywanie zadania „MakeDir” zakończone.: (identyfikator zadania: 15)
+                   Zadanie „CheckVCToolsetVersion”: (identyfikator zadania: 16)
+                   Wykonywanie zadania „CheckVCToolsetVersion” zakończone.: (identyfikator zadania: 16)
+                   Zadanie „MakeDir”: (identyfikator zadania: 17)
+                   Wykonywanie zadania „MakeDir” zakończone.: (identyfikator zadania: 17)
+14:47:22.163     1>Wykonano kompilowanie elementu docelowego „PrepareForBuild” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 20)
+14:47:22.163     1>Element docelowy „ResolveSDKReferences: (identyfikator elementu docelowego: 21)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „ResolveAssemblyReferences”):
+14:47:22.163     1>Wykonano kompilowanie elementu docelowego „ResolveSDKReferences” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 21)
+14:47:22.163     1>Element docelowy „ExpandSDKReferences: (identyfikator elementu docelowego: 22)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „ResolveAssemblyReferences”):
+14:47:22.163     1>Wykonano kompilowanie elementu docelowego „ExpandSDKReferences” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 22)
+14:47:22.163     1>Element docelowy „ResolveAssemblyReferences: (identyfikator elementu docelowego: 23)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „ResolveReferences”):
+14:47:22.163     1>Wykonano kompilowanie elementu docelowego „ResolveAssemblyReferences” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 23)
+14:47:22.163     1>Element docelowy „AfterResolveReferences: (identyfikator elementu docelowego: 24)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „ResolveReferences”):
+14:47:22.163     1>Wykonano kompilowanie elementu docelowego „AfterResolveReferences” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 24)
+14:47:22.163     1>Element docelowy „ResolveReferences: (identyfikator elementu docelowego: 25)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „Build”):
+14:47:22.163     1>Wykonano kompilowanie elementu docelowego „ResolveReferences” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 25)
+14:47:22.163     1>Element docelowy „InitializeBuildStatus: (identyfikator elementu docelowego: 26)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „Build”):
+                   Zadanie „ReadLinesFromFile”: (identyfikator zadania: 18)
+                   Wykonywanie zadania „ReadLinesFromFile” zakończone.: (identyfikator zadania: 18)
+                   Zadanie „WriteLinesToFile”: (identyfikator zadania: 19)
+                   Wykonywanie zadania „WriteLinesToFile” zakończone.: (identyfikator zadania: 19)
+                   Zadanie „Touch”: (identyfikator zadania: 20)
+                   Wykonywanie zadania „Touch” zakończone.: (identyfikator zadania: 20)
+14:47:22.164     1>Wykonano kompilowanie elementu docelowego „InitializeBuildStatus” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 26)
+14:47:22.165     1>Element docelowy „BuildGenerateSourcesTraverse: (identyfikator elementu docelowego: 27)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „BuildGenerateSources”):
+14:47:22.165     1>Wykonano kompilowanie elementu docelowego „BuildGenerateSourcesTraverse” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 27)
+14:47:22.165     1>Element docelowy „BeforeBuildGenerateSources: (identyfikator elementu docelowego: 28)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „_BuildGenerateSourcesAction”):
+14:47:22.165     1>Wykonano kompilowanie elementu docelowego „BeforeBuildGenerateSources” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 28)
+14:47:22.165     1>Element docelowy „PreBuildEvent: (identyfikator elementu docelowego: 29)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „_BuildGenerateSourcesAction”):
+14:47:22.165     1>Wykonano kompilowanie elementu docelowego „PreBuildEvent” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 29)
+14:47:22.165     1>Element docelowy „_SelectedFiles: (identyfikator elementu docelowego: 30)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „SelectCustomBuild”):
+14:47:22.165     1>Wykonano kompilowanie elementu docelowego „_SelectedFiles” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 30)
+14:47:22.165     1>Element docelowy „SelectCustomBuild: (identyfikator elementu docelowego: 31)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „CustomBuild”):
+14:47:22.165     1>Wykonano kompilowanie elementu docelowego „SelectCustomBuild” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 31)
+14:47:22.165     1>Element docelowy „ComputeCustomBuildOutput: (identyfikator elementu docelowego: 32)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „CustomBuild”):
+                   Zadanie „MakeDir”: (identyfikator zadania: 21)
+                   Wykonywanie zadania „MakeDir” zakończone.: (identyfikator zadania: 21)
+14:47:22.165     1>Wykonano kompilowanie elementu docelowego „ComputeCustomBuildOutput” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 32)
+14:47:22.165     1>Element docelowy „CustomBuild: (identyfikator elementu docelowego: 33)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „_BuildGenerateSourcesAction”):
+                   Zadanie „GetOutOfDateItems”: (identyfikator zadania: 22)
+                   Wykonywanie zadania „GetOutOfDateItems” zakończone.: (identyfikator zadania: 22)
+                   Zadanie „GetOutOfDateItems”: (identyfikator zadania: 23)
+                   Wykonywanie zadania „GetOutOfDateItems” zakończone.: (identyfikator zadania: 23)
+14:47:22.165     1>Wykonano kompilowanie elementu docelowego „CustomBuild” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 33)
+14:47:22.165     1>Element docelowy „CopyFileToFolders: (identyfikator elementu docelowego: 34)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „_BuildGenerateSourcesAction”):
+                   Zadanie „GetOutOfDateItems”: (identyfikator zadania: 24)
+                   Wykonywanie zadania „GetOutOfDateItems” zakończone.: (identyfikator zadania: 24)
+14:47:22.166     1>Wykonano kompilowanie elementu docelowego „CopyFileToFolders” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 34)
+14:47:22.166     1>Element docelowy „_Xsd: (identyfikator elementu docelowego: 35)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „_BuildGenerateSourcesAction”):
+14:47:22.166     1>Wykonano kompilowanie elementu docelowego „_Xsd” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 35)
+14:47:22.166     1>Element docelowy „MakeDirsForMidl: (identyfikator elementu docelowego: 36)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „_Midl”):
+                   Zadanie „Makedir”: (identyfikator zadania: 25)
+                   Wykonywanie zadania „Makedir” zakończone.: (identyfikator zadania: 25)
+14:47:22.166     1>Wykonano kompilowanie elementu docelowego „MakeDirsForMidl” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 36)
+14:47:22.166     1>Element docelowy „ComputeMIDLGeneratedCompileInputs: (identyfikator elementu docelowego: 37)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „_Midl”):
+14:47:22.166     1>Wykonano kompilowanie elementu docelowego „ComputeMIDLGeneratedCompileInputs” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 37)
+14:47:22.166     1>Element docelowy „AfterMidl: (identyfikator elementu docelowego: 38)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „_Midl”):
+14:47:22.166     1>Wykonano kompilowanie elementu docelowego „AfterMidl” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 38)
+14:47:22.166     1>Element docelowy „_Midl: (identyfikator elementu docelowego: 39)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „_BuildGenerateSourcesAction”):
+14:47:22.166     1>Wykonano kompilowanie elementu docelowego „_Midl” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 39)
+14:47:22.166     1>Element docelowy „AfterBuildGenerateSources: (identyfikator elementu docelowego: 40)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „_BuildGenerateSourcesAction”):
+14:47:22.166     1>Wykonano kompilowanie elementu docelowego „AfterBuildGenerateSources” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 40)
+14:47:22.166     1>Element docelowy „AfterBuildGenerateSourcesEvent: (identyfikator elementu docelowego: 41)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „_BuildGenerateSourcesAction”):
+14:47:22.166     1>Wykonano kompilowanie elementu docelowego „AfterBuildGenerateSourcesEvent” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 41)
+14:47:22.166     1>Element docelowy „_BuildGenerateSourcesAction: (identyfikator elementu docelowego: 42)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „BuildGenerateSources”):
+14:47:22.166     1>Wykonano kompilowanie elementu docelowego „_BuildGenerateSourcesAction” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 42)
+14:47:22.166     1>Element docelowy „BuildGenerateSources: (identyfikator elementu docelowego: 43)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „Build”):
+14:47:22.166     1>Wykonano kompilowanie elementu docelowego „BuildGenerateSources” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 43)
+14:47:22.166     1>Element docelowy „BuildCompileTraverse: (identyfikator elementu docelowego: 44)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „BuildCompile”):
+14:47:22.166     1>Wykonano kompilowanie elementu docelowego „BuildCompileTraverse” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 44)
+14:47:22.166     1>Element docelowy „BeforeClCompile: (identyfikator elementu docelowego: 45)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „_ClCompile”):
+14:47:22.166     1>Wykonano kompilowanie elementu docelowego „BeforeClCompile” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 45)
+14:47:22.166     1>Element docelowy „ComputeCLInputPDBName: (identyfikator elementu docelowego: 46)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „_ClCompile”):
+14:47:22.166     1>Wykonano kompilowanie elementu docelowego „ComputeCLInputPDBName” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 46)
+14:47:22.166     1>Element docelowy „FindReferenceAssembliesForReferences: (identyfikator elementu docelowego: 47)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „ComputeReferenceCLInput”):
+14:47:22.166     1>Wykonano kompilowanie elementu docelowego „FindReferenceAssembliesForReferences” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 47)
+14:47:22.166     1>Element docelowy „GetReferencedVCProjectsInfo: (identyfikator elementu docelowego: 48)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „ComputeReferenceCLInput”):
+14:47:22.166     1>Wykonano kompilowanie elementu docelowego „GetReferencedVCProjectsInfo” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 48)
+14:47:22.166     1>Element docelowy „ComputeReferenceCLInput: (identyfikator elementu docelowego: 49)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „_ClCompile”):
+14:47:22.166     1>Wykonano kompilowanie elementu docelowego „ComputeReferenceCLInput” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 49)
+14:47:22.166     1>Element docelowy „WarnCompileDuplicatedFilename: (identyfikator elementu docelowego: 50)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „_ClCompile”):
+14:47:22.166     1>Wykonano kompilowanie elementu docelowego „WarnCompileDuplicatedFilename” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 50)
+14:47:22.166     1>Element docelowy „FixupCLCompileOptions: (identyfikator elementu docelowego: 51)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „_ClCompile”):
+14:47:22.167     1>Wykonano kompilowanie elementu docelowego „FixupCLCompileOptions” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 51)
+14:47:22.167     1>Element docelowy „MakeDirsForCl: (identyfikator elementu docelowego: 52)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „_ClCompile”):
+                   Zadanie „MakeDir”: (identyfikator zadania: 26)
+                   Wykonywanie zadania „MakeDir” zakończone.: (identyfikator zadania: 26)
+14:47:22.167     1>Wykonano kompilowanie elementu docelowego „MakeDirsForCl” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 52)
+14:47:22.167     1>Element docelowy „SelectClCompile: (identyfikator elementu docelowego: 53)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „ClCompile”):
+14:47:22.167     1>Wykonano kompilowanie elementu docelowego „SelectClCompile” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 53)
+14:47:22.167     1>Element docelowy „ClCompile: (identyfikator elementu docelowego: 54)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „_ClCompile”):
+                   Zadanie „CL”: (identyfikator zadania: 27)
+                     C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt "Źródło.cpp": (identyfikator zadania: 27)
+                     Źródło.cpp: (identyfikator zadania: 27)
+                   Wykonywanie zadania „CL” zakończone.: (identyfikator zadania: 27)
+14:47:22.574     1>Wykonano kompilowanie elementu docelowego „ClCompile” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 54)
+14:47:22.574     1>Element docelowy „AfterClCompile: (identyfikator elementu docelowego: 55)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „_ClCompile”):
+14:47:22.574     1>Wykonano kompilowanie elementu docelowego „AfterClCompile” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 55)
+14:47:22.574     1>Element docelowy „_ClCompile: (identyfikator elementu docelowego: 56)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „_BuildCompileAction”):
+14:47:22.574     1>Wykonano kompilowanie elementu docelowego „_ClCompile” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 56)
+14:47:22.574     1>Element docelowy „BeforeResourceCompile: (identyfikator elementu docelowego: 57)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „_ResourceCompile”):
+14:47:22.574     1>Wykonano kompilowanie elementu docelowego „BeforeResourceCompile” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 57)
+14:47:22.574     1>Element docelowy „MakeDirsForResourceCompile: (identyfikator elementu docelowego: 58)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „_ResourceCompile”):
+                   Zadanie „MakeDir”: (identyfikator zadania: 28)
+                   Wykonywanie zadania „MakeDir” zakończone.: (identyfikator zadania: 28)
+14:47:22.574     1>Wykonano kompilowanie elementu docelowego „MakeDirsForResourceCompile” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 58)
+14:47:22.574     1>Element docelowy „AfterResourceCompile: (identyfikator elementu docelowego: 59)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „_ResourceCompile”):
+14:47:22.574     1>Wykonano kompilowanie elementu docelowego „AfterResourceCompile” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 59)
+14:47:22.574     1>Element docelowy „_ResourceCompile: (identyfikator elementu docelowego: 60)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „_BuildCompileAction”):
+14:47:22.574     1>Wykonano kompilowanie elementu docelowego „_ResourceCompile” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 60)
+14:47:22.574     1>Element docelowy „AfterBuildCompileEvent: (identyfikator elementu docelowego: 61)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „_BuildCompileAction”):
+14:47:22.574     1>Wykonano kompilowanie elementu docelowego „AfterBuildCompileEvent” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 61)
+14:47:22.574     1>Element docelowy „_BuildCompileAction: (identyfikator elementu docelowego: 62)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „BuildCompile”):
+14:47:22.574     1>Wykonano kompilowanie elementu docelowego „_BuildCompileAction” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 62)
+14:47:22.574     1>Element docelowy „BuildCompile: (identyfikator elementu docelowego: 63)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „Build”):
+14:47:22.574     1>Wykonano kompilowanie elementu docelowego „BuildCompile” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 63)
+14:47:22.574     1>Element docelowy „BuildLinkTraverse: (identyfikator elementu docelowego: 64)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „BuildLink”):
+14:47:22.574     1>Wykonano kompilowanie elementu docelowego „BuildLinkTraverse” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 64)
+14:47:22.574     1>Element docelowy „ComputeLegacyManifestEmbedding: (identyfikator elementu docelowego: 65)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „_BuildLinkAction”):
+14:47:22.574     1>Wykonano kompilowanie elementu docelowego „ComputeLegacyManifestEmbedding” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 65)
+14:47:22.574     1>Element docelowy „BeforeLink: (identyfikator elementu docelowego: 66)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „_Link”):
+14:47:22.574     1>Wykonano kompilowanie elementu docelowego „BeforeLink” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 66)
+14:47:22.574     1>Element docelowy „ComputeRCOutputs: (identyfikator elementu docelowego: 67)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „ComputeRCGeneratedLinkInputs”):
+14:47:22.574     1>Wykonano kompilowanie elementu docelowego „ComputeRCOutputs” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 67)
+14:47:22.574     1>Element docelowy „ComputeRCGeneratedLinkInputs: (identyfikator elementu docelowego: 68)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „_Link”):
+14:47:22.574     1>Wykonano kompilowanie elementu docelowego „ComputeRCGeneratedLinkInputs” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 68)
+14:47:22.574     1>Element docelowy „ComputeManifestGeneratedLinkerInputs: (identyfikator elementu docelowego: 69)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „_Link”):
+14:47:22.574     1>Wykonano kompilowanie elementu docelowego „ComputeManifestGeneratedLinkerInputs” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 69)
+14:47:22.574     1>Element docelowy „ComputeCLOutputs: (identyfikator elementu docelowego: 70)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „ComputeCLGeneratedLinkInputs”):
+14:47:22.574     1>Wykonano kompilowanie elementu docelowego „ComputeCLOutputs” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 70)
+14:47:22.574     1>Element docelowy „ComputeCLGeneratedLinkInputs: (identyfikator elementu docelowego: 71)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „_Link”):
+14:47:22.578     1>Wykonano kompilowanie elementu docelowego „ComputeCLGeneratedLinkInputs” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 71)
+14:47:22.578     1>Element docelowy „ComputeLinkInputsFromProject: (identyfikator elementu docelowego: 72)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „_Link”):
+14:47:22.578     1>Wykonano kompilowanie elementu docelowego „ComputeLinkInputsFromProject” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 72)
+14:47:22.578     1>Element docelowy „ComputeManifestInputsTargets: (identyfikator elementu docelowego: 73)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „_Link”):
+14:47:22.578     1>Wykonano kompilowanie elementu docelowego „ComputeManifestInputsTargets” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 73)
+14:47:22.578     1>Element docelowy „AssignTargetPaths: (identyfikator elementu docelowego: 74)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „PrepareResourceNames”):
+                   Zadanie „AssignTargetPath”: (identyfikator zadania: 29)
+                   Wykonywanie zadania „AssignTargetPath” zakończone.: (identyfikator zadania: 29)
+                   Zadanie „AssignTargetPath”: (identyfikator zadania: 30)
+                   Wykonywanie zadania „AssignTargetPath” zakończone.: (identyfikator zadania: 30)
+                   Zadanie „AssignTargetPath”: (identyfikator zadania: 31)
+                   Wykonywanie zadania „AssignTargetPath” zakończone.: (identyfikator zadania: 31)
+                   Zadanie „AssignTargetPath”: (identyfikator zadania: 32)
+                   Wykonywanie zadania „AssignTargetPath” zakończone.: (identyfikator zadania: 32)
+14:47:22.579     1>Wykonano kompilowanie elementu docelowego „AssignTargetPaths” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 74)
+14:47:22.579     1>Element docelowy „SplitResourcesByCulture: (identyfikator elementu docelowego: 75)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „PrepareResourceNames”):
+                   Zadanie „AssignCulture”: (identyfikator zadania: 33)
+                   Wykonywanie zadania „AssignCulture” zakończone.: (identyfikator zadania: 33)
+14:47:22.579     1>Wykonano kompilowanie elementu docelowego „SplitResourcesByCulture” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 75)
+14:47:22.579     1>Element docelowy „CreateCustomManifestResourceNames: (identyfikator elementu docelowego: 76)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „PrepareResourceNames”):
+14:47:22.579     1>Wykonano kompilowanie elementu docelowego „CreateCustomManifestResourceNames” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 76)
+14:47:22.579     1>Element docelowy „PrepareResourceNames: (identyfikator elementu docelowego: 77)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „_Link”):
+14:47:22.579     1>Wykonano kompilowanie elementu docelowego „PrepareResourceNames” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 77)
+14:47:22.579     1>Element docelowy „MakeDirsForLink: (identyfikator elementu docelowego: 78)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „_Link”):
+                   Zadanie „MakeDir”: (identyfikator zadania: 34)
+                   Wykonywanie zadania „MakeDir” zakończone.: (identyfikator zadania: 34)
+14:47:22.579     1>Wykonano kompilowanie elementu docelowego „MakeDirsForLink” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 78)
+14:47:22.579     1>Element docelowy „DoLinkOutputFilesMatch: (identyfikator elementu docelowego: 79)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „_Link”):
+14:47:22.579     1>Wykonano kompilowanie elementu docelowego „DoLinkOutputFilesMatch” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 79)
+14:47:22.579     1>Element docelowy „PreLinkEvent: (identyfikator elementu docelowego: 80)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „_Link”):
+14:47:22.579     1>Wykonano kompilowanie elementu docelowego „PreLinkEvent” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 80)
+14:47:22.579     1>Element docelowy „ComputeLinkSwitches: (identyfikator elementu docelowego: 81)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „Link”):
+14:47:22.579     1>Wykonano kompilowanie elementu docelowego „ComputeLinkSwitches” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 81)
+14:47:22.579     1>Element docelowy „Link: (identyfikator elementu docelowego: 82)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „_Link”):
+                   Zadanie „Link”: (identyfikator zadania: 35)
+                     C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\x64\Debug\PO_lab2_cpp_advanced.exe" /INCREMENTAL /ILK:"x64\Debug\PO_lab2_cpp_advanced.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\x64\Debug\PO_lab2_cpp_advanced.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\x64\Debug\PO_lab2_cpp_advanced.lib" /MACHINE:X64 "x64\Debug\Źródło.obj": (identyfikator zadania: 35)
+                   Wykonywanie zadania „Link” zakończone.: (identyfikator zadania: 35)
+                   Zadanie „Message”: (identyfikator zadania: 36)
+                     PO_lab2_cpp_advanced.vcxproj -> C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\x64\Debug\PO_lab2_cpp_advanced.exe: (identyfikator zadania: 36)
+                   Wykonywanie zadania „Message” zakończone.: (identyfikator zadania: 36)
+14:47:22.647     1>Wykonano kompilowanie elementu docelowego „Link” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 82)
+14:47:22.647     1>Element docelowy „ComputeLinkImportLibraryOutputsForClean: (identyfikator elementu docelowego: 83)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „_Link”):
+14:47:22.648     1>Wykonano kompilowanie elementu docelowego „ComputeLinkImportLibraryOutputsForClean” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 83)
+14:47:22.648     1>Element docelowy „AfterLink: (identyfikator elementu docelowego: 84)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „_Link”):
+14:47:22.648     1>Wykonano kompilowanie elementu docelowego „AfterLink” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 84)
+14:47:22.648     1>Element docelowy „_Link: (identyfikator elementu docelowego: 85)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „_BuildLinkAction”):
+14:47:22.648     1>Wykonano kompilowanie elementu docelowego „_Link” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 85)
+14:47:22.648     1>Element docelowy „_ALink: (identyfikator elementu docelowego: 86)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „_BuildLinkAction”):
+14:47:22.648     1>Wykonano kompilowanie elementu docelowego „_ALink” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 86)
+14:47:22.648     1>Element docelowy „_Manifest: (identyfikator elementu docelowego: 87)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „_BuildLinkAction”):
+14:47:22.648     1>Wykonano kompilowanie elementu docelowego „_Manifest” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 87)
+14:47:22.648     1>Element docelowy „RegisterOutput: (identyfikator elementu docelowego: 88)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „_BuildLinkAction”):
+14:47:22.648     1>Wykonano kompilowanie elementu docelowego „RegisterOutput” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 88)
+14:47:22.648     1>Element docelowy „ResolvedXDCMake: (identyfikator elementu docelowego: 89)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „_XdcMake”):
+14:47:22.648     1>Wykonano kompilowanie elementu docelowego „ResolvedXDCMake” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 89)
+14:47:22.648     1>Element docelowy „ComputeCLCompileGeneratedXDCFiles: (identyfikator elementu docelowego: 90)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „_XdcMake”):
+14:47:22.648     1>Wykonano kompilowanie elementu docelowego „ComputeCLCompileGeneratedXDCFiles” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 90)
+14:47:22.648     1>Element docelowy „MakeDirsForXdcMake: (identyfikator elementu docelowego: 91)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „_XdcMake”):
+                   Zadanie „MakeDir”: (identyfikator zadania: 37)
+                   Wykonywanie zadania „MakeDir” zakończone.: (identyfikator zadania: 37)
+14:47:22.648     1>Wykonano kompilowanie elementu docelowego „MakeDirsForXdcMake” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 91)
+14:47:22.648     1>Element docelowy „_XdcMake: (identyfikator elementu docelowego: 92)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „_BuildLinkAction”):
+14:47:22.648     1>Wykonano kompilowanie elementu docelowego „_XdcMake” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 92)
+14:47:22.648     1>Element docelowy „ComputeCLCompileGeneratedSbrFiles: (identyfikator elementu docelowego: 93)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „_BscMake”):
+14:47:22.648     1>Wykonano kompilowanie elementu docelowego „ComputeCLCompileGeneratedSbrFiles” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 93)
+14:47:22.648     1>Element docelowy „MakeDirsForBscMake: (identyfikator elementu docelowego: 94)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „_BscMake”):
+                   Zadanie „MakeDir”: (identyfikator zadania: 38)
+                   Wykonywanie zadania „MakeDir” zakończone.: (identyfikator zadania: 38)
+14:47:22.648     1>Wykonano kompilowanie elementu docelowego „MakeDirsForBscMake” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 94)
+14:47:22.648     1>Element docelowy „_BscMake: (identyfikator elementu docelowego: 95)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „_BuildLinkAction”):
+14:47:22.648     1>Wykonano kompilowanie elementu docelowego „_BscMake” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 95)
+14:47:22.648     1>Element docelowy „BuiltProjectOutputGroup: (identyfikator elementu docelowego: 96)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „CreateRecipeFile”):
+14:47:22.648     1>Wykonano kompilowanie elementu docelowego „BuiltProjectOutputGroup” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 96)
+14:47:22.648     1>Element docelowy „SatelliteDllsProjectOutputGroup: (identyfikator elementu docelowego: 97)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „CreateRecipeFile”):
+14:47:22.648     1>Wykonano kompilowanie elementu docelowego „SatelliteDllsProjectOutputGroup” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 97)
+14:47:22.648     1>Element docelowy „MakeDirsForFxc: (identyfikator elementu docelowego: 98)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „ContentFilesProjectOutputGroup”):
+                   Zadanie „MakeDir”: (identyfikator zadania: 39)
+                   Wykonywanie zadania „MakeDir” zakończone.: (identyfikator zadania: 39)
+14:47:22.648     1>Wykonano kompilowanie elementu docelowego „MakeDirsForFxc” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 98)
+14:47:22.648     1>Element docelowy „ContentFilesProjectOutputGroup: (identyfikator elementu docelowego: 99)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „CreateRecipeFile”):
+14:47:22.649     1>Wykonano kompilowanie elementu docelowego „ContentFilesProjectOutputGroup” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 99)
+14:47:22.649     1>Element docelowy „CreateRecipeFile: (identyfikator elementu docelowego: 100)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „_BuildLinkAction”):
+                   Zadanie „GenerateDesktopDeployRecipe”: (identyfikator zadania: 40)
+                   Wykonywanie zadania „GenerateDesktopDeployRecipe” zakończone.: (identyfikator zadania: 40)
+14:47:22.649     1>Wykonano kompilowanie elementu docelowego „CreateRecipeFile” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 100)
+14:47:22.649     1>Element docelowy „_GenerateSatelliteAssemblyInputs: (identyfikator elementu docelowego: 101)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „CreateSatelliteAssemblies”):
+14:47:22.649     1>Wykonano kompilowanie elementu docelowego „_GenerateSatelliteAssemblyInputs” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 101)
+14:47:22.650     1>Element docelowy „CreateSatelliteAssemblies: (identyfikator elementu docelowego: 102)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „_BuildLinkAction”):
+14:47:22.650     1>Wykonano kompilowanie elementu docelowego „CreateSatelliteAssemblies” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 102)
+14:47:22.650     1>Element docelowy „_Appverifier: (identyfikator elementu docelowego: 103)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „_BuildLinkAction”):
+14:47:22.650     1>Wykonano kompilowanie elementu docelowego „_Appverifier” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 103)
+14:47:22.650     1>Element docelowy „_Deploy: (identyfikator elementu docelowego: 104)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „_BuildLinkAction”):
+14:47:22.650     1>Wykonano kompilowanie elementu docelowego „_Deploy” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 104)
+14:47:22.650     1>Element docelowy „_PopulateCommonStateForGetCopyToOutputDirectoryItems: (identyfikator elementu docelowego: 105)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „GetCopyToOutputDirectoryItems”):
+14:47:22.650     1>Wykonano kompilowanie elementu docelowego „_PopulateCommonStateForGetCopyToOutputDirectoryItems” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 105)
+14:47:22.650     1>Element docelowy „GetCopyToOutputDirectoryXamlAppDefs: (identyfikator elementu docelowego: 106)” w pliku „C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Xaml.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „GetCopyToOutputDirectoryItems”):
+                   Zadanie „AssignTargetPath”: (identyfikator zadania: 41)
+                   Wykonywanie zadania „AssignTargetPath” zakończone.: (identyfikator zadania: 41)
+14:47:22.650     1>Wykonano kompilowanie elementu docelowego „GetCopyToOutputDirectoryXamlAppDefs” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 106)
+14:47:22.650     1>Element docelowy „GetCopyToOutputDirectoryItems: (identyfikator elementu docelowego: 107)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „_CopySourceItemsToOutputDirectory”):
+                   Zadanie „CallTarget”: (identyfikator zadania: 42)
+14:47:22.650     1>Element docelowy „_GetCopyToOutputDirectoryItemsFromTransitiveProjectReferences: (identyfikator elementu docelowego: 108)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „GetCopyToOutputDirectoryItems”):
+                   Zadanie „AssignTargetPath”: (identyfikator zadania: 43)
+                   Wykonywanie zadania „AssignTargetPath” zakończone.: (identyfikator zadania: 43)
+14:47:22.651     1>Wykonano kompilowanie elementu docelowego „_GetCopyToOutputDirectoryItemsFromTransitiveProjectReferences” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 108)
+                   Wykonywanie zadania „CallTarget” zakończone.: (identyfikator zadania: 42)
+                   Zadanie „CallTarget”: (identyfikator zadania: 44)
+14:47:22.651     1>Element docelowy „_GetCopyToOutputDirectoryItemsFromThisProject: (identyfikator elementu docelowego: 109)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „GetCopyToOutputDirectoryItems”):
+                   Zadanie „AssignTargetPath”: (identyfikator zadania: 45)
+                   Wykonywanie zadania „AssignTargetPath” zakończone.: (identyfikator zadania: 45)
+14:47:22.651     1>Wykonano kompilowanie elementu docelowego „_GetCopyToOutputDirectoryItemsFromThisProject” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 109)
+                   Wykonywanie zadania „CallTarget” zakończone.: (identyfikator zadania: 44)
+14:47:22.651     1>Wykonano kompilowanie elementu docelowego „GetCopyToOutputDirectoryItems” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 107)
+14:47:22.651     1>Element docelowy „_CopySourceItemsToOutputDirectory: (identyfikator elementu docelowego: 110)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „CopyFilesToOutputDirectory”):
+14:47:22.651     1>Wykonano kompilowanie elementu docelowego „_CopySourceItemsToOutputDirectory” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 110)
+14:47:22.651     1>Element docelowy „_CheckForCompileOutputs: (identyfikator elementu docelowego: 111)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „CopyFilesToOutputDirectory”):
+14:47:22.651     1>Wykonano kompilowanie elementu docelowego „_CheckForCompileOutputs” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 111)
+14:47:22.651     1>Element docelowy „CopyFilesToOutputDirectory: (identyfikator elementu docelowego: 112)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „PrepareForRun”):
+14:47:22.651     1>Wykonano kompilowanie elementu docelowego „CopyFilesToOutputDirectory” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 112)
+14:47:22.651     1>Element docelowy „PrepareForRun: (identyfikator elementu docelowego: 113)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „_BuildLinkAction”):
+14:47:22.651     1>Wykonano kompilowanie elementu docelowego „PrepareForRun” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 113)
+14:47:22.651     1>Element docelowy „PostBuildEvent: (identyfikator elementu docelowego: 114)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „_BuildLinkAction”):
+14:47:22.651     1>Wykonano kompilowanie elementu docelowego „PostBuildEvent” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 114)
+14:47:22.651     1>Element docelowy „_BuildLinkAction: (identyfikator elementu docelowego: 115)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „BuildLink”):
+14:47:22.651     1>Wykonano kompilowanie elementu docelowego „_BuildLinkAction” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 115)
+14:47:22.651     1>Element docelowy „BuildLink: (identyfikator elementu docelowego: 116)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „Build”):
+14:47:22.651     1>Wykonano kompilowanie elementu docelowego „BuildLink” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 116)
+14:47:22.651     1>Element docelowy „AfterBuild: (identyfikator elementu docelowego: 117)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „Build”):
+14:47:22.651     1>Wykonano kompilowanie elementu docelowego „AfterBuild” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 117)
+14:47:22.652     1>Element docelowy „_CleanGetCurrentAndPriorFileWrites: (identyfikator elementu docelowego: 118)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „IncrementalClean”):
+                   Zadanie „ReadLinesFromFile”: (identyfikator zadania: 46)
+                   Wykonywanie zadania „ReadLinesFromFile” zakończone.: (identyfikator zadania: 46)
+                   Zadanie „ConvertToAbsolutePath”: (identyfikator zadania: 47)
+                   Wykonywanie zadania „ConvertToAbsolutePath” zakończone.: (identyfikator zadania: 47)
+                   Zadanie „FindUnderPath”: (identyfikator zadania: 48)
+                   Wykonywanie zadania „FindUnderPath” zakończone.: (identyfikator zadania: 48)
+                   Zadanie „FindUnderPath”: (identyfikator zadania: 49)
+                   Wykonywanie zadania „FindUnderPath” zakończone.: (identyfikator zadania: 49)
+                   Zadanie „FindUnderPath”: (identyfikator zadania: 50)
+                   Wykonywanie zadania „FindUnderPath” zakończone.: (identyfikator zadania: 50)
+                   Zadanie „RemoveDuplicates”: (identyfikator zadania: 51)
+                   Wykonywanie zadania „RemoveDuplicates” zakończone.: (identyfikator zadania: 51)
+14:47:22.652     1>Wykonano kompilowanie elementu docelowego „_CleanGetCurrentAndPriorFileWrites” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 118)
+14:47:22.652     1>Element docelowy „IncrementalClean: (identyfikator elementu docelowego: 119)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „Build”):
+                   Zadanie „FindUnderPath”: (identyfikator zadania: 52)
+                   Wykonywanie zadania „FindUnderPath” zakończone.: (identyfikator zadania: 52)
+                   Zadanie „FindUnderPath”: (identyfikator zadania: 53)
+                   Wykonywanie zadania „FindUnderPath” zakończone.: (identyfikator zadania: 53)
+                   Zadanie „Delete”: (identyfikator zadania: 54)
+                   Wykonywanie zadania „Delete” zakończone.: (identyfikator zadania: 54)
+                   Zadanie „RemoveDuplicates”: (identyfikator zadania: 55)
+                   Wykonywanie zadania „RemoveDuplicates” zakończone.: (identyfikator zadania: 55)
+14:47:22.653     1>Wykonano kompilowanie elementu docelowego „IncrementalClean” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 119)
+14:47:22.653     1>Element docelowy „FinalizeBuildStatus: (identyfikator elementu docelowego: 120)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (zależy od niego element docelowy „Build”):
+                   Zadanie „Delete”: (identyfikator zadania: 56)
+                   Wykonywanie zadania „Delete” zakończone.: (identyfikator zadania: 56)
+                   Zadanie „Touch”: (identyfikator zadania: 57)
+                   Wykonywanie zadania „Touch” zakończone.: (identyfikator zadania: 57)
+14:47:22.654     1>Wykonano kompilowanie elementu docelowego „FinalizeBuildStatus” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 120)
+14:47:22.654     1>Element docelowy „Build: (identyfikator elementu docelowego: 121)” w pliku „C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets” z projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” (punkt wejścia):
+14:47:22.654     1>Wykonano kompilowanie elementu docelowego „Build” w projekcie „PO_lab2_cpp_advanced.vcxproj”.: (identyfikator elementu docelowego: 121)
+14:47:22.654     1>Kompilowanie projektu „C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj” wykonane (elementy docelowe: Build).
+
+Podsumowanie wydajności projektu:
+      497 ms  C:\ProgramowanieObiektowe\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced\PO_lab2_cpp_advanced.vcxproj — wywołań:   1
+                497 ms  Build                                    — wywołań:   1
+
+Podsumowanie wydajności elementu docelowego:
+        0 ms  AfterBuildCompileEvent                   — wywołań:   1
+        0 ms  _Manifest                                — wywołań:   1
+        0 ms  _ALink                                   — wywołań:   1
+        0 ms  _Link                                    — wywołań:   1
+        0 ms  AfterLink                                — wywołań:   1
+        0 ms  ComputeLinkSwitches                      — wywołań:   1
+        0 ms  PreLinkEvent                             — wywołań:   1
+        0 ms  DoLinkOutputFilesMatch                   — wywołań:   1
+        0 ms  MakeDirsForLink                          — wywołań:   1
+        0 ms  PrepareResourceNames                     — wywołań:   1
+        0 ms  CreateCustomManifestResourceNames        — wywołań:   1
+        0 ms  SplitResourcesByCulture                  — wywołań:   1
+        0 ms  RegisterOutput                           — wywołań:   1
+        0 ms  ComputeManifestInputsTargets             — wywołań:   1
+        0 ms  ComputeCLOutputs                         — wywołań:   1
+        0 ms  ComputeManifestGeneratedLinkerInputs     — wywołań:   1
+        0 ms  ComputeRCGeneratedLinkInputs             — wywołań:   1
+        0 ms  ComputeRCOutputs                         — wywołań:   1
+        0 ms  BeforeLink                               — wywołań:   1
+        0 ms  ComputeLegacyManifestEmbedding           — wywołań:   1
+        0 ms  BuildLinkTraverse                        — wywołań:   1
+        0 ms  BuildCompile                             — wywołań:   1
+        0 ms  _BuildCompileAction                      — wywołań:   1
+        0 ms  _ResourceCompile                         — wywołań:   1
+        0 ms  AfterResourceCompile                     — wywołań:   1
+        0 ms  ComputeLinkInputsFromProject             — wywołań:   1
+        0 ms  MakeDirsForResourceCompile               — wywołań:   1
+        0 ms  ResolvedXDCMake                          — wywołań:   1
+        0 ms  MakeDirsForXdcMake                       — wywołań:   1
+        0 ms  _CleanGetCurrentAndPriorFileWrites       — wywołań:   1
+        0 ms  AfterBuild                               — wywołań:   1
+        0 ms  BuildLink                                — wywołań:   1
+        0 ms  _BuildLinkAction                         — wywołań:   1
+        0 ms  PostBuildEvent                           — wywołań:   1
+        0 ms  PrepareForRun                            — wywołań:   1
+        0 ms  CopyFilesToOutputDirectory               — wywołań:   1
+        0 ms  _CheckForCompileOutputs                  — wywołań:   1
+        0 ms  _CopySourceItemsToOutputDirectory        — wywołań:   1
+        0 ms  _GetCopyToOutputDirectoryItemsFromThisProject — wywołań:   1
+        0 ms  GetCopyToOutputDirectoryXamlAppDefs      — wywołań:   1
+        0 ms  ComputeCLCompileGeneratedXDCFiles        — wywołań:   1
+        0 ms  _PopulateCommonStateForGetCopyToOutputDirectoryItems — wywołań:   1
+        0 ms  _Appverifier                             — wywołań:   1
+        0 ms  CreateSatelliteAssemblies                — wywołań:   1
+        0 ms  _GenerateSatelliteAssemblyInputs         — wywołań:   1
+        0 ms  CreateRecipeFile                         — wywołań:   1
+        0 ms  MakeDirsForFxc                           — wywołań:   1
+        0 ms  SatelliteDllsProjectOutputGroup          — wywołań:   1
+        0 ms  BuiltProjectOutputGroup                  — wywołań:   1
+        0 ms  _BscMake                                 — wywołań:   1
+        0 ms  MakeDirsForBscMake                       — wywołań:   1
+        0 ms  ComputeCLCompileGeneratedSbrFiles        — wywołań:   1
+        0 ms  _XdcMake                                 — wywołań:   1
+        0 ms  _Deploy                                  — wywołań:   1
+        0 ms  BeforeResourceCompile                    — wywołań:   1
+        0 ms  Build                                    — wywołań:   1
+        0 ms  AfterClCompile                           — wywołań:   1
+        0 ms  SelectCustomBuild                        — wywołań:   1
+        0 ms  _SelectedFiles                           — wywołań:   1
+        0 ms  _ClCompile                               — wywołań:   1
+        0 ms  BeforeBuildGenerateSources               — wywołań:   1
+        0 ms  BuildGenerateSourcesTraverse             — wywołań:   1
+        0 ms  ResolveReferences                        — wywołań:   1
+        0 ms  AfterResolveReferences                   — wywołań:   1
+        0 ms  ResolveAssemblyReferences                — wywołań:   1
+        0 ms  ExpandSDKReferences                      — wywołań:   1
+        0 ms  ResolveSDKReferences                     — wywołań:   1
+        0 ms  SetCABuildNativeEnvironmentVariables     — wywołań:   1
+        0 ms  ComputeCustomBuildOutput                 — wywołań:   1
+        0 ms  _CheckWindowsSDKInstalled                — wywołań:   1
+        0 ms  AddExternalIncludDirectoriesToPaths      — wywołań:   1
+        0 ms  GetReferenceAssemblyPaths                — wywołań:   1
+        0 ms  GetFrameworkPaths                        — wywołań:   1
+        0 ms  ResolveProjectReferences                 — wywołań:   1
+        0 ms  PrepareProjectReferences                 — wywołań:   1
+        0 ms  _AddOutputPathToGlobalPropertiesToRemove — wywołań:   1
+        0 ms  _SplitProjectReferencesByFileExistence   — wywołań:   1
+        0 ms  AssignProjectConfiguration               — wywołań:   1
+        0 ms  BeforeResolveReferences                  — wywołań:   1
+        0 ms  _PrepareForReferenceResolution           — wywołań:   1
+        0 ms  _PrepareForBuild                         — wywołań:   1
+        0 ms  GetResolvedWinMD                         — wywołań:   1
+        0 ms  CustomBuild                              — wywołań:   1
+        0 ms  PreBuildEvent                            — wywołań:   1
+        0 ms  FindReferenceAssembliesForReferences     — wywołań:   1
+        0 ms  BuildCompileTraverse                     — wywołań:   1
+        0 ms  ComputeReferenceCLInput                  — wywołań:   1
+        0 ms  BuildGenerateSources                     — wywołań:   1
+        0 ms  WarnCompileDuplicatedFilename            — wywołań:   1
+        0 ms  MakeDirsForCl                            — wywołań:   1
+        0 ms  _BuildGenerateSourcesAction              — wywołań:   1
+        0 ms  ComputeCLInputPDBName                    — wywołań:   1
+        0 ms  GetReferencedVCProjectsInfo              — wywołań:   1
+        0 ms  AfterBuildGenerateSourcesEvent           — wywołań:   1
+        0 ms  _Midl                                    — wywołań:   1
+        0 ms  AfterMidl                                — wywołań:   1
+        0 ms  ComputeMIDLGeneratedCompileInputs        — wywołań:   1
+        0 ms  MakeDirsForMidl                          — wywołań:   1
+        0 ms  _Xsd                                     — wywołań:   1
+        0 ms  SelectClCompile                          — wywołań:   1
+        0 ms  AfterBuildGenerateSources                — wywołań:   1
+        0 ms  BeforeClCompile                          — wywołań:   1
+        1 ms  InitializeBuildStatus                    — wywołań:   1
+        1 ms  AssignTargetPaths                        — wywołań:   1
+        1 ms  ComputeLinkImportLibraryOutputsForClean  — wywołań:   1
+        1 ms  _CheckForInvalidConfigurationAndPlatform — wywołań:   1
+        1 ms  SetTelemetryEnvironmentVariables         — wywołań:   1
+        1 ms  SetBuildDefaultEnvironmentVariables      — wywołań:   1
+        1 ms  IncrementalClean                         — wywołań:   1
+        1 ms  FixupCLCompileOptions                    — wywołań:   1
+        1 ms  _GetCopyToOutputDirectoryItemsFromTransitiveProjectReferences — wywołań:   1
+        1 ms  GetCopyToOutputDirectoryItems            — wywołań:   1
+        1 ms  CopyFileToFolders                        — wywołań:   1
+        1 ms  ContentFilesProjectOutputGroup           — wywołań:   1
+        1 ms  FinalizeBuildStatus                      — wywołań:   1
+        1 ms  _GetProjectReferenceTargetFrameworkProperties — wywołań:   1
+        2 ms  PrepareForBuild                          — wywołań:   1
+        4 ms  ComputeCLGeneratedLinkInputs             — wywołań:   1
+       68 ms  Link                                     — wywołań:   1
+      407 ms  ClCompile                                — wywołań:   1
+
+Podsumowanie wydajności zadania:
+        0 ms  Message                                  — wywołań:   3
+        0 ms  FindUnderPath                            — wywołań:   5
+        0 ms  ConvertToAbsolutePath                    — wywołań:   1
+        0 ms  GenerateDesktopDeployRecipe              — wywołań:   1
+        0 ms  AssignCulture                            — wywołań:   1
+        0 ms  RemoveDuplicates                         — wywołań:   2
+        0 ms  WriteLinesToFile                         — wywołań:   1
+        0 ms  GetOutOfDateItems                        — wywołań:   3
+        0 ms  MSBuild                                  — wywołań:   1
+        0 ms  AssignProjectConfiguration               — wywołań:   1
+        0 ms  ReadLinesFromFile                        — wywołań:   2
+        0 ms  Delete                                   — wywołań:   2
+        1 ms  AssignTargetPath                         — wywołań:   7
+        1 ms  CallTarget                               — wywołań:   2
+        1 ms  Touch                                    — wywołań:   2
+        1 ms  CheckVCToolsetVersion                    — wywołań:   1
+        1 ms  MakeDir                                  — wywołań:  10
+        2 ms  SetEnv                                   — wywołań:   9
+       67 ms  Link                                     — wywołań:   1
+      405 ms  CL                                       — wywołań:   1
+
+Kompilacja powiodła się.
+    Ostrzeżenia: 0
+    Liczba błędów: 0
+
+Czas, który upłynął: 00:00:00.49
